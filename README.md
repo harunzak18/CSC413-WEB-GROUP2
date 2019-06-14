@@ -1,1 +1,2 @@
-# CSC413-WEB-GROUP2
+# CSC413-GROUP2
+Web Design Group Assignment.
